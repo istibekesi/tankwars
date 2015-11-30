@@ -1,0 +1,6 @@
+hello\BattleController.class
+tankwar\model\Battle.class
+hello\GreetingController.class
+tankwar\repo\BattleRepository.class
+hello\Application.class
+tankwar\model\BattleStatus.class
